@@ -1,0 +1,15 @@
+{
+  "name": "riot-observable",
+  "version": "1.0.0",
+  "description": "Simplest observable for Riot.js",
+  "homepage": "https://muut.com/riotjs/api/#observable",
+  "repository": "riot/observable",
+  "author": "Riot org. and other contributors",
+  "license": "MIT",
+  "keywords": [
+    "riotjs",
+    "riot.js"
+  ],
+  "main": "observable.js",
+  "browser": "observable.js"
+}
